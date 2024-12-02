@@ -21,11 +21,22 @@ To set up the Goodcabs Performance Dashboard locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Gaurav-Wankhede/Goodcabs-Tier-2-Cities-Performance-Dashboard.git
+   cd Goodcabs-Tier-2-Cities-Performance-Dashboard
    ```
 
 2. **Install Dependencies**:
+    Ensure virtual environment is activated:
+    ```bash
+    python3 -m venv env
+    or
+    python -m venv env
+    ```
+    ```bash
+    source env/bin/activate 
+    or
+    ./.venv/Scripts/activate.ps1
+    ```
    Ensure you have Python installed, then run:
    ```bash
    pip install -r requirements.txt
@@ -34,7 +45,7 @@ To set up the Goodcabs Performance Dashboard locally, follow these steps:
 3. **Run the Application**:
    Start the Streamlit app using:
    ```bash
-   streamlit run main.py
+   streamlit run Solution/main.py
    ```
 
 ## Some Analysis
