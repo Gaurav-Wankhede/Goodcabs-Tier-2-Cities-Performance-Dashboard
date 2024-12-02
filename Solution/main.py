@@ -55,6 +55,8 @@ with col1:
         unsafe_allow_html=True
     )
 
+
+
 with col2:
     if st.session_state.current_page == 'City Performance Analysis':
         st.markdown("## 🏙️ City Performance Analysis")
