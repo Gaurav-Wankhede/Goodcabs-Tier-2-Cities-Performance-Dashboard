@@ -192,10 +192,8 @@ st.markdown(
         background: rgba(0,0,0,0);
     }}
     .menu .container-xxl[data-v-5af006b8] {{
-        position: fixed;
-        top: 0;
-        z-index: 1000;
-        background-color: #f8f9fa;
+    background-color: 000000;
+    border-radius: .5rem;
     }}
     </style>
     """,
