@@ -1,0 +1,9 @@
+[server]
+headless = true
+runOnSave = true
+
+[theme]
+primaryColor = "goldenrod"
+base = "dark"
+textColor = "white"
+backgroundColor = "black"
