@@ -60,5 +60,5 @@ The dashboard leverages advanced data processing and visualization techniques to
 
 ## Links
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/wankhede-gaurav/)
+- **Portfolio**: [Your Portfolio](https://gaurav-wankhede.vercel.app/)

@@ -49,7 +49,7 @@ with col1:
         if st.button(f"{icon} {category}", use_container_width=True):
             st.session_state.current_page = category
     st.markdown(
-        f"[![](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-wankhede-5244101b8/) "
+        f"[![](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wankhede-gaurav/) "
         f"[![](https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav-Wankhede) "
         f"[![](https://img.shields.io/badge/-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaurav-wankhede.vercel.app/)",
         unsafe_allow_html=True
