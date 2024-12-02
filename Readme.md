@@ -35,7 +35,9 @@ To set up the Goodcabs Performance Dashboard locally, follow these steps:
     ```bash
     source env/bin/activate 
     or
-    ./.venv/Scripts/activate.ps1
+    ./env/Scripts/activate.ps1 #for Powershell
+    or
+    ./env/Scripts/activate #for CMD
     ```
    Ensure you have Python installed, then run:
    ```bash
